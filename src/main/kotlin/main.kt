@@ -1,5 +1,6 @@
-class Main {
-    fun main() {
+object main {
+    @JvmStatic
+    fun main(args: Array<String>) {
         println("Hello World")
     }
 }
