@@ -49,5 +49,15 @@ object main {
     	}
     }
     println(highest_number)	
+    var sum_square = 0
+    for (i in 1..100){
+    	sum_square += i * i
+    }
+    var square_sum = 0
+    for (i in 1..100){
+    	square_sum += i
+    }
+    square_sum *= square_sum
+    println(square_sum - sum_square)
     }
 }
