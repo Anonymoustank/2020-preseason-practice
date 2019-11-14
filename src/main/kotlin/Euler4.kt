@@ -1,7 +1,7 @@
+package practice;
+
 object main2 {
-    @JvmStatic
-    fun main(args: Array<String>) {
-        println("Hello World")
+    fun main() {
     var highest_number = 0
     for (i in 100..999){
     	for (x in 100..999){
