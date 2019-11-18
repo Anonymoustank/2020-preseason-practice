@@ -52,6 +52,8 @@ object main {
 	    main5.main()
 
 	    main6.main()
+
+	    main7.main()
 	    }
 
 
