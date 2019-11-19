@@ -21,6 +21,7 @@ object main7 {
                 break
             }
         }
+        println("Euler 12 solution is...")
         println(number)
     }
 }
