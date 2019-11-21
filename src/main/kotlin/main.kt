@@ -58,6 +58,8 @@ object main {
 	    main8.main()
 
 	    main9.main(2, 15)
+
+	    main10.main(5)
 	    }
 
 
