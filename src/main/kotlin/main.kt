@@ -3,6 +3,7 @@ package practice;
 object main {
     @JvmStatic
     fun main(args: Array<String>) {
+    	main12.main()
         println("Hello World")
 	    var x = 0
 	    var y = 0
